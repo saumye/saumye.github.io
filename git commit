@@ -1,0 +1,170 @@
+[1mdiff --git a/Saumye Srivastava.pdf b/Saumye Srivastava.pdf[m
+[1mindex 6e27fc7..a0bb9c0 100644[m
+[1m--- a/Saumye Srivastava.pdf[m	
+[1m+++ b/Saumye Srivastava.pdf[m	
+[36m@@ -1,107 +1,58 @@[m
+[31m-                              Saumye Srivastava[m
+[31m-Email:     saumye.srivastava@live.com               Portfolio: http://saumye.github.io[m
+[31m-[m
+[31m-Github: http://github.com/saumye                    Mobile:     9590332323[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-INTERESTS[m
+[31m-[m
+[31m-Parallel Computing, Systems Programming, Computer Architecture.[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-WORK EXPERIENCE[m
+[31m-[m
+[31m--        Research Intern[m
+[31m-[m
+[31m-         India Institute of Technology, Kharagpur                                June, 2014[m
+[31m-[m
+[31m-         Developed an algorithm to identify, segment and classify clustered cancer nuclei from[m
+[31m-         microscopic images by using Image Processing in Matlab.[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-CERTIFICATES:[m
+[31m-[m
+[31m-Additional Courses:[m
+[31m-[m
+[31m--        ‘Design and Analysis of Algorithms’ course by Tim Roughgarden, Stanford University[m
+[31m-         via Coursera.[m
+[31m-[m
+[31m--        Microsoft Technical Associate certification in Web Development in C#/.net framework.[m
+[31m-[m
+[31m--        'Heterogeneous Parallel Programming using CUDA' course by Dr. Hwu, University of[m
+[31m-         Illinois and Coursera.[m
+[31m-[m
+[31m--        'Big Data analytics on Hadoop' workshop as part of PING 2014 organised by Microsoft[m
+[31m-         and Infosys India.[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-Achievements:[m
+[31m-[m
+[31m--        Represented Karnataka in Aspirations2020 National coding finals at Infosys, Bangalore.[m
+[31m-[m
+[31m--        Asia-Kharagpur regional finalist of an international level competitive coding challenge[m
+[31m-         called the ACM-ICPC.[m
+[31m-[m
+[31m--        Winner of various college level events and also 'Geek Cipher' event held at Anna[m
+[31m-         University, Chennai.[m
+[31m-EDUCATION:[m
+[31m-[m
+[31m--       BE in Computer Science from Manipal Institute of Technology with a CGPA 7.1 till[m
+[31m-        6th semester.[m
+[31m-[m
+[31m--       87% in All India Senior School Certiﬁcate Examination - 2011, graduated from Delhi[m
+[31m-        Public School, Bangalore.[m
+[31m-[m
+[31m--       92% in All India Secondary School Examination – 2009, graduated from Air Force Bal[m
+[31m-        Bharti School, New Delhi.[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-TECHNICAL EXPERTISE:[m
+[31m-[m
+[31m-Softwares:   Visual Studios, Eclipse, Adobe Photoshop, Matlab, VHDL on[m
+[31m-             Postgre-SQL, Code Blocks, Wavepad[m
+[31m-[m
+[31m-Languages: C(Advanced), C++(Intermediate), Java(Intermediate), HTML, CSS, Python(Basic)[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-PROJECTS:[m
+[31m-[m
+[31m-Quest                                                           June, 2013[m
+[31m-[m
+[31m-An Android search app that compiles multimedia results in real time for a better search[m
+[31m-experience. It parses JSON data form Wikipedia/DBPedia API and XML stream from Google[m
+[31m-Images to present a visual result with a summary.[m
+[31m-[m
+[31m-Breakout                                                        December, 2012[m
+[31m-[m
+[31m-A ping-pong style game developed in Java on an open-source engine called 3Coffee,[m
+[31m-developed by a senior. Also took a workshop on Java game development as a part of college[m
+[31m-technical fest.[m
+[31m-[m
+[31m-AIESEC-Manipal                                                  December, 2011[m
+[31m-[m
+[31m-Worked as team leader in Team-Showcasing impact which involved visiting NGO’s to[m
+[31m-organize events with incoming interns from different countries, working on posters, event-[m
+[31m-website, blog, Intern reception booklet, brochures, etc.[m
+[31m-[m
+[31m-Technical Event Head, Game Development                          October, 2013[m
+[31m-[m
+[31m-Organizer of gaming event in the fest conducting gaming tournament for in station and[m
+[31m-outstation participants. Conducted a workshop teaching 2D game development in Java and an[m
+[31m-event in the college fest.[m
+[31m-[m
+[31m-HOBBIES:[m
+[31m-[m
+[31m-Programming, Drumming, Reading, Football, Audiophilia, Computer gaming[m
+[32m+[m[32mhttp://saumye.github.io                                                                        Contact: +91-9590332323[m[41m[m
+[32m+[m[32m                                          SAUMYE SRIVASTAVA                                    Email: saumyedps@gmail.com[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mAreas Of Interest:        Data Structure and Algorithm, Parallel Computing, Computer Vision[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mEXPERIENCE[m[41m[m
+[32m+[m[32mResearch Intern                   SMST, Indian Institute of Technology, Kharagpur                             June-2014[m[41m[m
+[32m+[m[32mDeveloped an algorithm to identify, segment and classify clustered H&E Breast Cancer nuclei from microscopic images by using[m[41m[m
+[32m+[m[32mImage Processing techniques in Matlab. Completed 6 weeks internship with a research paper in progress.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mPROJECTS[m[41m[m
+[32m+[m[32mQuest                                           github.com/Saumye[m[41m[m
+[32m+[m[32mAn Android search app that compiles multimedia results in real time for a better search experience. It parses JSON data from[m[41m[m
+[32m+[m[32mWikipedia/DBPedia API and XML stream from Google Images to present a visual result with a summary instead of the usual[m[41m[m
+[32m+[m[32msearch results.[m[41m[m
+[32m+[m[32mBreakout[m[41m[m
+[32m+[m[32mA game developed in Java on an open-source engine called 3Coffee, developed by a senior. The 2D game involved collision[m[41m[m
+[32m+[m[32mtracking between balls, bricks, paddle etc. Also took a workshop on Java game development as a part of college technical fest.[m[41m[m
+[32m+[m[32mCustom Data Structure Library[m[41m[m
+[32m+[m[32mWrote a library containing different data structures such as Tries, Lists, Trees, Suffix Array etc, using C++ templates[m[41m[m
+[32m+[m[32msupporting multiple operations.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mACHIEVEMENTS[m[41m[m
+[32m+[m[32m   Part of the team ranking 5th out of nearly 25,000 participants across India and later represented Karnataka, in[m[41m[m
+[32m+[m[32m    Aspirations2020 2013 National coding finals at Infosys, Bangalore.[m[41m[m
+[32m+[m[32m   Distinction in course in ‘Algorithm Analysis’ taken by Prof. Tim Roughgarden from Stanford University, USA from Coursera.[m[41m[m
+[32m+[m[32m   Microsoft Certified Professional after successfully obtaining a Microsoft Technical Associate certification from Microsoft.[m[41m[m
+[32m+[m[32m   Winner of various college level coding events in Manipal and also 'Geek Cipher' event held at Anna University, Chennai.[m[41m[m
+[32m+[m[32m   Completed 'Big Data analytics on Hadoop' workshop as part of PING 2014 organised by Microsoft and Infosys India.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mEDUCATION[m[41m[m
+[32m+[m[32mManipal Institute of Technology                         Manipal University                             2011-2015[m[41m[m
+[32m+[m[32mB.Tech in Computer Science with a current GPA of 7.1 till 6th semester.[m[41m[m
+[32m+[m[32mUndergraduate Coursework: Data Structures, Algorithms, Operating Systems, Networks, Automata Theory, Parallel[m[41m[m
+[32m+[m[32mComputing, Neural Networks, Data Mining, Computer Architecture.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mSKILL SET[m[41m[m
+[32m+[m[32mLanguages/Frameworks:[m[41m[m
+[32m+[m[32mAverage coding skills in C, C++, Java. Considerable knowledge of Android development, Git(Version Control), HTML, CSS,[m[41m[m
+[32m+[m[32mJSON, XML, OpenCL, MPI.[m[41m[m
+[32m+[m[32mSoftwares:[m[41m[m
+[32m+[m[32mMatlab, Visual Studio, Eclipse, Postgre-SQL, Adobe Photoshop.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mRESPONSIBILITIES[m[41m[m
+[32m+[m[32m   Event-head of Game Development Category in Techtatva Annual tech-fest of Manipal Institute of Technology, 2013 which[m[41m[m
+[32m+[m[32m    involved taking workshops on game development in java from scratch and judging/rating games.[m[41m[m
+[32m+[m[32m   Event organizer for Gaming category, Revels Annual Cultural-fest of Manipal Institute of Technology, 2012.[m[41m[m
+[32m+[m[32m   Worked as team leader in AIESEC which involved visiting NGO’s to organize events with incoming interns from different[m[41m[m
+[32m+[m[32m    countries, working on posters, event-website, blog, Intern reception booklet, brochures, etc.[m[41m[m
+[32m+[m[32m    President of Information Technology in the prefect board, House Vice-captain in DPS Bangalore.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mEXTRA-CURRICULARS[m[41m[m
+[32m+[m[32m   Active member of Linux User’s Group, Manipal.[m[41m[m
+[32m+[m[32m   Drummer of a rock band ‘Agyaat’, participating in numerous fests in school and colleges. Also the finalist of ‘Battle of the[m[41m[m
+[32m+[m[32m    Bands’ event of Revels, 2013 at Manipal Institute of Technology.[m[41m[m
+[32m+[m[32m   Dancing professional in the Manipal’s hip-hop dance crew, ‘Showstoppers’ throughout first year.[m[41m[m
+ [m
+\ No newline at end of file[m
