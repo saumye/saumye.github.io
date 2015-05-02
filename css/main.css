@@ -1009,6 +1009,12 @@ h2 i[class^="icon-"], h2 i[class*=" icon-"], h2 i.fa {
 		.social li a.google-plus:before {
  			content: '\e803'
 			}
+		.social li a.quora:before {
+ 			content: '\e803'
+			}
+		.social li a.angel:before {
+ 			content: '\e803'
+			}
 		.social li a.youtube:before {
  			content: "\e813"
 			}
@@ -1111,8 +1117,14 @@ h2 i[class^="icon-"], h2 i[class*=" icon-"], h2 i.fa {
 		.social li a.instagram:hover {
  			background-color: #3f729b
 			}
+		.social li a.quora:hover {
+ 			background-color: #c63d2d
+			}
 		.social li a.stack-overflow:hover {
  			background-color: #F90
+			}
+		.social li a.angel:hover {
+ 			background-color: #FFF
 			}
 		.social li a.foursquare:hover {
  			background-color: #009FE0
