@@ -1009,12 +1009,6 @@ h2 i[class^="icon-"], h2 i[class*=" icon-"], h2 i.fa {
 		.social li a.google-plus:before {
  			content: '\e803'
 			}
-		.social li a.quora:before {
- 			content: '\e803'
-			}
-		.social li a.angel:before {
- 			content: '\e803'
-			}
 		.social li a.youtube:before {
  			content: "\e813"
 			}
